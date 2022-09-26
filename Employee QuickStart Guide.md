@@ -1,4 +1,4 @@
-![](media/4379f2534a93ee57c3ba5b27b958aa21.png)
+![](media/d6ae3590155318508384b0ee61a1ab7e.png)
 
 ![](media/2bd9af180b478844b97cf89ccb2fec73.png)
 
@@ -10,31 +10,45 @@
 
 Table of contents
 
-[Purpose](#purpose) **2**
+[Version tracking](#version-tracking)
 
-[Abstract](#abstract) **2**
+[Purpose](#purpose)
 
-[Definitions](#definitions) **2**
+[Abstract](#abstract)
 
-[System Requirements](#system-requirements) **2**
+[Definitions](#definitions)
 
-[Process Overview](#process-overview) **2**
+[System Requirements](#system-requirements)
 
-[Platforms and Responsibility](#platforms-and-responsibility) **2**
+[Process Overview](#process-overview)
 
-[Process diagram](#process-diagram) **3**
+[Platforms and Responsibility](#platforms-and-responsibility)
 
-[Provide your information to LeapXpert](#provide-your-information-to-leapxpert) **3**
+[Process diagram](#_Toc49125501)
 
-[Access Leap Work web portal in your browser](#access-leap-work-web-portal-in-your-browser) **3**
+[1. Provide your information to LeapXpert](#provide-your-information-to-leapxpert)
 
-[Download and install Leap Work Mobile App](#download-and-install-leap-work-mobile-app) **5**
+[2. Access Leap Work web portal in your browser](#access-leap-work-web-portal-in-your-browser)
 
-[Mobile - iOS](#mobile---ios) **5**
+[3. Download and install Leap Work Mobile App](#download-and-install-leap-work-mobile-app)
 
-[Mobile - Android](#mobile---android) **9**
+[Mobile - iOS](#mobile---ios)
 
-[Support](#support) **13**
+[Mobile - Android](#_Toc49125506)
+
+[Support](#support)
+
+## Version tracking
+
+| Author           | Date       | Version | changelog                                      |
+|------------------|------------|---------|------------------------------------------------|
+| Gal Gutzeit      | 25.03.2019 | 1.0     | Document created                               |
+| Darren Catterall | 11.07.2019 | 1.1     | Document updated                               |
+| Gal Gutzeit      | 19.07.2019 | 1.2     | Document updated                               |
+| Michael Hoang    | 29.08.2019 | 1.3     | [Mobile - Android](#_Mobile_-_Android) updated |
+| Michael Hoang    | 16.12.2019 | 1.4     | Screenshots updated                            |
+| Michael Hoang    | 06.09.2020 | 1.7     | Screenshots updated                            |
+| Michael Hoang    | 10.08.2020 | 1.8     | Screenshots updated                            |
 
 ## Purpose
 
@@ -82,7 +96,7 @@ We’ve created a company employee account for you to start using LeapXpert. You
     1.  **Click on the web portal link** using your company’s default browser.
     2.  At the web portal login page, enter your company name as provided in highlighted as \#1.
 
-![](media/3ea2531540ea77ea9cb5de3fb90b47e6.jpg)
+![](media/00ab84230246496e9ef72176ee5cce41.jpeg)
 
 Picture 1
 
@@ -98,7 +112,7 @@ Picture 1
         7.  Highlighted \#7: choose a messaging service to correspond with your contact.
         8.  Highlighted \#8: view chat conversation details.
 
-![](media/fb63e7b446d330549241fdd726aab953.jpg)
+![](media/7ff5714820cdb9b5088d4c5a07ab4c4d.jpeg)
 
 Picture 2
 
@@ -110,7 +124,7 @@ Picture 2
 
 1.  Download and install the [Leap Work](https://apps.apple.com/hr/app/leap-work/id1483553630) app from the Apple App Store, as in highlighted \#1 in the picture below.
 
-    ![](media/7e345457a8ca9fe4cbded1128f4eee46.png)
+    ![](media/8333113491499380ac9738943dd6a53a.png)
 
 Picture 3
 
@@ -118,33 +132,33 @@ Picture 3
     1.  When prompted, please allow notifications.
     2.  It is required to input an activation code if the app is installed on a new device. This code is only required once. Follow the instructions on the screen to get the activation code or tap "Skip" to skip straight to the activation code input screen (highlighted \#1 in Picture 4 below).
 
-        ![](media/39b7d873c4d29254290ed359ebdd5f75.jpg)
+        ![](media/689cc69cf5713aa6ceecd47bc0cbcf93.jpeg)
 
 Picture 4
 
 1.  If you skip the instructions, to get the code, login into the Desktop web portal (see section B. Access Leap Work web portal in your browser).
     1.  At the web portal home screen, click on your profile picture on the bottom left corner (highlighted \#1), then click on “Devices” option (highlighted \#2). In the CONNECTED DEVICES section, click on "LINK DEVICE" (highlighted \#3) as in Picture 5 below:
 
-        ![](media/a644ab5d8675090c78cb8fe0b3bbbc0a.jpg)
+        ![](media/bc82b16ef5b70a5485ade0c5d59c7dfb.jpeg)
 
 Picture 5
 
 1.  In the pop-up, click on "Request another code" to generate the code, as highlighted \#1 in Picture 6 below:
 
-    ![](media/64980c338db3d2556691ccaaa4e9e73d.jpg)
+    ![](media/171eae4c838428b06db858ada9a4d8d6.jpeg)
 
     Picture 6
 
 1.  Note down the code generated. Now go to Leap Work mobile app, input the code (not case-sensitive) and tap "Next" (see Picture 7 below):
 
-    ![](media/e625490c0a6e34fc4937e06bd48348de.jpg)
+    ![](media/1d532183c54dcf438d82870a1a12fced.jpeg)
 
 Picture 7
 
 1.  Alternatively, you can tap "Scan QR Code" button (highlighted \#1 in picture 7 above) and scan the code on the web portal (highlighted \#2 in picture 6 above) without having to type in the code manually.
     1.  On the next screen, login using the username and password provided to you by the LeapXpert Support Team:
 
-        ![](media/a96daa1c480cf8e4a254a815440b147f.jpg)
+        ![](media/006ff754a7637367cd1b3ea608427db1.jpeg)
 
         Picture 8
 
@@ -156,7 +170,7 @@ Picture 7
         4.  Highlighted \#4: personal settings. See your avatar and personal details (can change on Web), contact support, log out.
         5.  Highlighted \#5: add a new chat in a chat tab; add a new client from clients tab.
 
-![](media/2b2d5fc899e7fe79bb2db4bdbf5440f2.jpg)
+![](media/e7a7ba2111ef80d136b2bfdc9d80d74b.jpeg)
 
 Picture 9
 
@@ -167,49 +181,53 @@ Picture 9
 1.  Search for [Leap Work](https://play.google.com/store/apps/details?id=com.leapxpert.public.manager) app on Google Play Store. If the app cannot be found, contact your company or LeapXpert Support Team for access.
     1.  On the app details screen, **click on “Install”** as highlighted \#1 below
 
-![](media/c6f97d4f2ed944e30afda9a63d5b9c52.png)
+![](media/8b3bbee7ae7465e449bd897abc853c93.png)
 
 Picture 10
 
 1.  The app will download and install automatically. When it is ready, **click on “Open”** button as highlighted \#1 below
 
-![](media/7fc49517da96ca2cee92d38c6083506d.png)
+![](media/9a80b45b53784401920716331220b4a0.png)
 
 Picture 11
 
 1.  It is required to input an activation code if the app is installed on a new device. This code is only required once. Follow the instructions on the screen to get the activation code or tap "Skip" to skip straight to the activation code input screen (highlighted \#1 in Picture 12 below)
 
-![](media/bcf1d66fe16b58444ca9a80d680dd87a.jpg)
+![](media/a7699d95cddc71771bbfdf141368a5dd.jpeg)
 
 Picture 12
 
 1.  If you skip the instructions, to get the code, login into the Desktop web portal (see section B. Access Leap Work web portal in your browser).
     1.  At the web portal home screen, click on your profile picture on the bottom left corner (highlighted \#1), then click on “Devices” option (highlighted \#2). In the CONNECTED DEVICES section, click on "LINK DEVICE" (highlighted 3\#) as in Picture 13 below:
 
-        ![](media/a644ab5d8675090c78cb8fe0b3bbbc0a.jpg)
+        ![](media/bc82b16ef5b70a5485ade0c5d59c7dfb.jpeg)
 
 Picture 13
 
 1.  In the pop-up, click on "Request another code" to generate the code, as highlighted \#1 in Picture 14 below:
 
-    ![](media/64980c338db3d2556691ccaaa4e9e73d.jpg)
+    ![](media/171eae4c838428b06db858ada9a4d8d6.jpeg)
 
 Picture 14
 
 1.  Note down the code generated. Now go to Leap Work mobile app, input the code (not case-sensitive) and tap "Next" (see Picture 15 below)
 
-    ![](media/387137a3df831444547ad3957d6678d6.jpg)
+    ![](media/7e11482e9850aa632ba1c56d2d298e4c.jpeg)
 
     Picture 15
 
     1.  Alternatively, you can tap "Scan QR Code" button (highlighted \#1 in picture 15 above) and scan the code on the web portal (highlighted \#2 in picture 14 above) without having to type in the code manually.
     2.  On the next screen, login using the username and password provided to you by the LeapXpert Support Team:
 
-        ![](media/de1d33c75c32dc9d06fa99fe902be93c.jpg)
+        ![](media/47624480f95f99f84ba039b985ba2355.jpeg)
 
 Picture 16
 
 1.  For first-time login, a pop-up appears to ask you to set up a passcode. You can tap "Yes" to set up the passcode (see "Biometrics and Security" section on Company Employee (AM) User Guide documentation), or "No" to skip this step.
+
+**  
+**
+
 1.  **Congratulations – you are in!** Welcome to LeapXpert compliant communication experience. So, here is what you see in the App:
     1.  Highlighted \#1: chats. Avatars with round orange strips are your co-workers.
         1.  Highlighted \#2: contacts. There are clients and team (co-workers) tabs.
@@ -217,7 +235,7 @@ Picture 16
         3.  Highlighted \#4: personal settings. See your avatar and personal details (can change on Web), contact support, log out.
         4.  Highlighted \#5: add new chat in a chat tab; add a new client from clients tab.
 
-![](media/d2074faf225b25dac8619c90fccd33f4.jpg)
+![](media/b5431f0be191bfa3eb9db210b236bb4c.jpeg)
 
 Picture 17
 
@@ -225,6 +243,6 @@ Picture 17
 
 ## Support
 
-In case of any questions, please contact LeapXpert Support Team:![Конверт](media/1fae5b49c13a610e604953a358f12dd7.png)
+![Конверт](media/f73c0601ddc7d1ed26b8941d7cb8e073.png)In case of any questions, please contact LeapXpert Support Team:
 
 [support@leap.expert](mailto:support@leap.expert)
