@@ -1,40 +1,4 @@
-![](media/4379f2534a93ee57c3ba5b27b958aa21.png)
 
-![](media/2bd9af180b478844b97cf89ccb2fec73.png)
-
-![../../../../../../Users/danielcampbell/Downloads/%5BLeap%5D%20Product%20Deck%20-%20MK](media/87b1648c96f2fe85fdde99d810f77f72.png)
-
-| LeapXpert Limited 4/F, Lee Garden Three, 1 Sunning Road,  Causeway Bay, Hong Kong | ![../../../../../../Users/danielcampbell/Downloads/%5BLeap%5D%20Product%20Deck%20-%20MKT](media/d18c4b9b3a87d71aa7c4be1c8dd2ebf1.png)  | [info@leap.expert](mailto:info@leap.expert)  | ![../../../../../../Users/danielcampbell/Downloads/%5BLeap%5D%20Product%20Deck%20-%20M](media/859e1c6ef82aa65fe39ec4ce2d191295.png) | [linkedin.com/company/leapexpert](https://www.linkedin.com/company/14410918) |   |
-|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---|
-|                                                                                   | ![../../../../../../Users/danielcampbell/Downloads/%5BLeap%5D%20Product%20Deck%20-%20MKT](media/c3a1c9e1646d8c0a8cd34c27b294a4e6.png)  | [leap.expert](http://www.leap.expert/)       | ![../../../../../../Users/danielcampbell/Downloads/%5BLeap%5D%20Product%20Deck%20-%20M](media/59f8ed8dfc8816506f18ddfeccf4fbcf.png) | [@leapxpert](http://www.twitter.com/leapxpert)                               |   |
-
-Table of contents
-
-[Purpose](#purpose) **2**
-
-[Abstract](#abstract) **2**
-
-[Definitions](#definitions) **2**
-
-[System Requirements](#system-requirements) **2**
-
-[Process Overview](#process-overview) **2**
-
-[Platforms and Responsibility](#platforms-and-responsibility) **2**
-
-[Process diagram](#process-diagram) **3**
-
-[Provide your information to LeapXpert](#provide-your-information-to-leapxpert) **3**
-
-[Access Leap Work web portal in your browser](#access-leap-work-web-portal-in-your-browser) **3**
-
-[Download and install Leap Work Mobile App](#download-and-install-leap-work-mobile-app) **5**
-
-[Mobile - iOS](#mobile---ios) **5**
-
-[Mobile - Android](#mobile---android) **9**
-
-[Support](#support) **13**
 
 ## Purpose
 
