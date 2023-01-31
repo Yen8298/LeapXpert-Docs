@@ -1,8 +1,8 @@
 .fw-helpcenter {
   
-    background-position: center top;
-  background-image: url("https://images2.imgbox.com/f1/05/GdnVT92g_o.png");
-    background-size: cover;
+  background-position: center top;
+background-image: url("https://images2.imgbox.com/f1/05/GdnVT92g_o.png");
+  background-size: cover;
 
 }
 
@@ -114,18 +114,18 @@ color: #ffffff
 /*footer*/
 
 footer .fw-credit{
-  text-align:left;
-    padding: 2rem 0;
+text-align:left;
+  padding: 2rem 0;
 }
 .container{
-  margin:auto;
+margin:auto;
 }
 .row{
-  display: flex;
-  flex-wrap: wrap;
+display: flex;
+flex-wrap: wrap;
 }
 ul{
-  list-style: none;
+list-style: none;
 }
 ul.footer__items.clean-list{
 padding: 0rem;
@@ -135,7 +135,7 @@ a.footer_link{
 padding: 0rem;
 }
 .footer{
-  background-color: #24262b;
+background-color: #24262b;
   padding: 70px 0;
 }
 .footer-col{
@@ -143,26 +143,26 @@ padding: 0rem;
  padding: 0 15px;
 }
 .footer-col h4{
-  font-size: 18px;
-  color: #ffffff;
-  text-transform: capitalize;
-  margin-bottom: 15px;
-  font-weight: 500;
-  position: relative;
+font-size: 18px;
+color: #ffffff;
+text-transform: capitalize;
+margin-bottom: 15px;
+font-weight: 500;
+position: relative;
 }
 
 .footer-col ul li:not(:last-child){
-  margin-bottom: 10px;
+margin-bottom: 10px;
 }
 .footer-col ul li a{
-  font-size: 16px;
-  text-transform: capitalize;
-  color: #ffffff;
-  text-decoration: none;
-  font-weight: 300;
-  color: #bbbbbb;
-  display: block;
-  transition: all 0.3s ease;
+font-size: 16px;
+text-transform: capitalize;
+color: #ffffff;
+text-decoration: none;
+font-weight: 300;
+color: #bbbbbb;
+display: block;
+transition: all 0.3s ease;
 }
 
 ul.footer__items.clean-list{
@@ -170,24 +170,24 @@ padding: 0rem;
 }
 
 .footer-col ul li a:hover{
-  color: #ffffff;
-  padding-left: 8px;
+color: #ffffff;
+padding-left: 8px;
 }
 .footer-col .social-links a{
-  display: inline-block;
-  height: 40px;
-  width: 40px;
-  background-color: rgba(255,255,255,0.2);
-  margin:0 10px 0px 0;
-  text-align: center;
-  line-height: 40px;
-  border-radius: 50%;
-  color: #ffffff;
-  transition: all 0.5s ease;
+display: inline-block;
+height: 40px;
+width: 40px;
+background-color: rgba(255,255,255,0.2);
+margin:0 10px 0px 0;
+text-align: center;
+line-height: 40px;
+border-radius: 50%;
+color: #ffffff;
+transition: all 0.5s ease;
 }
 .footer-col .social-links a:hover{
-  color: #24262b;
-  background-color: #ffffff;
+color: #24262b;
+background-color: #ffffff;
 }
 
 nav.fw-laws{
@@ -223,7 +223,6 @@ padding: 0 0;
 .table-of-contents {
 position: sticky;
 top: 180px;
-border-left: solid;
 float: right;
 width: 100%;
 font-size: 0.875rem;
@@ -244,12 +243,12 @@ text-decoration: underline;
 
 /* 3. ScrollSpy active styles (see JS tab for activation) */
 .table-of-contents li.active > a {
-  color: #333;
-  font-weight: 500;
+color: #333;
+font-weight: 500;
 }
 
 .table-of-contents a {
-  transition: all 50ms ease-in-out; 
+transition: all 50ms ease-in-out; 
 }
 
 .bg-grey {
@@ -270,8 +269,12 @@ color: #12344d;
 
 .fw-sidebar{
 padding: 0 1rem 0rem 1rem;
+min-height: 99%;
 }
 
 .fw-sidebar h5{
-    margin-bottom: 0.5rem;
+margin-bottom: 0.5rem;
+font-size:14px;
+border-bottom: solid 1px #ebeaeb;
+padding-bottom: 3px;
 }
